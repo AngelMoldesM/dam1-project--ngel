@@ -1,0 +1,71 @@
+html{
+    height: 100%;
+    color: dodgerblue;
+}
+body{
+    font-family: Verdana, sans-serif;
+    height: 100%;
+}
+h1{
+    background-color: black;
+    padding: 10px;
+    border-bottom: 4px solid blue;
+    color: lightskyblue ;
+    text-align: center;
+}
+.container{
+    display: wrap;
+    position: relative;
+}
+.xml{
+    color: #f69e30 ;
+}
+.json{
+    color: #9777ab;
+}
+.svg{
+    text-decoration-line: none;
+    color: #5153ff;
+}
+a{
+    text-decoration-line: none;
+}
+footer{
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 0.5em;
+    background-color: black;
+    text-align: center;
+    justify-content: space-between;
+    height: 3em;
+    margin-top: 0.5em;
+}
+a:hover{
+    color: white;
+}
+header{
+    font-family: 'Courier New', Courier, monospace, 3em, dodgerblue;
+    margin-bottom: 0.5em;
+    background-color: black;
+    height: 8em;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.RSS{
+    width: 40px;
+    height: 40px;
+}
+.logoxml{
+    background-color: black;
+}
+.logosvg{
+    background-color: black;
+}
+.logojson{
+    background-color: black;
+}
