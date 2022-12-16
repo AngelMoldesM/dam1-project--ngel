@@ -1,0 +1,9 @@
+7.-
+mail.json --> 555 bytes
+mail.xml --> 1.096 bytes
+
+Percentaje saved about ~52%
+-----------
+11.-
+Both urn:trial:examA and urn:trial:examB
+Because the fist name space makes reference to all the products, and the second namespace makes reference to the HP M01-F1040ns AMD Ryzen 5

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<film runtime="1h34m">
+	<title>Pirates of Silicon Valley</title>
+	<director>Martyn Burke</director>
+	<original Language="English">
+		<description>
+			Based upon the friendship and eventual breakdown between <strong>Bill Gates</strong> and <strong>Steve Jobs</strong> in the very early startup days of Microsoft and Apple from their home garages. This film does a great job of showing it’s about being the first to have an idea, it’s about who’s first to act on it properly and with passion, exemplified by their "theft" of the first GUI system from Xerox.
+		</description>
+	</original>
+</film>	
+
+<!--The first error is that the first Film tag, the atribute is wrong, it would be runtime="1h34m",
+the second error is that the closing tag in director is wrong the slash has to be in the beggining of the tag
+the third error is that the original tag is wrong writed, it has a white space at the begging, and the fourth error is that the attribute isn't in quotes,
+the sixth error is that the closing tag of original is missing, the seventh error is that que first tag of film begin with a capital letter.>
